@@ -106,7 +106,7 @@ export default function SubmitDonation() {
         onClose={onClose}>
         <ModalOverlay />
         <ModalContent>
-          <ModalHeader>Send Coffee ☕️</ModalHeader>
+          <ModalHeader>Send Espresso Coffee ☕️</ModalHeader>
           <ModalCloseButton />
           <ModalBody pb={6}>
             <p>

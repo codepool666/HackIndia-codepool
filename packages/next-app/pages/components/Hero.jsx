@@ -25,7 +25,7 @@ export default function Hero() {
             fontWeight={600}
             fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
             lineHeight={'110%'}>
-            Buy Me A <br />
+            Buy Me A Espresso <br />
             <Text as={'span'} color={'pink.300'}>
               Coffee
             </Text>

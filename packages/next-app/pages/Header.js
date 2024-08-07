@@ -3,7 +3,7 @@ import Head from "next/head";
 function Header() {
   return (
     <Head>
-      <title>Buy Me A Coffee</title>
+      <title>Buy Me A Espresso Coffee</title>
       <meta
         name="description"
         content="A DApp for my supporters to buy me coffee with crypto.💕"/>

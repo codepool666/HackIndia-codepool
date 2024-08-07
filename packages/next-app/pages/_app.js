@@ -7,7 +7,7 @@ import { wagmiClient, chains } from "../helpers/rainbowSetup";
 
 function MyApp({ Component, pageProps }) {
   const appInfo = {
-    appName: "Buy Me A Coffee"
+    appName: "Buy Me A Expresso"
   };
 
   return (
